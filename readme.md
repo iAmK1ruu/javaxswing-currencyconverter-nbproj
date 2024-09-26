@@ -29,6 +29,7 @@ git clone https://github.com/yourusername/simpleCurrencyConverter.git
 or download the .zip file and import on Apache NetBeans.
 
 ### Supported currencies
+```bash
 - USD
 - AED
 - AFN
@@ -191,3 +192,4 @@ or download the .zip file and import on Apache NetBeans.
 - ZAR
 - ZMW
 - ZWL
+```
