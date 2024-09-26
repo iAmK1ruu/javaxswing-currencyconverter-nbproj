@@ -7,7 +7,7 @@ This is a simple real-time currency converter application that allows users to c
 ![Sample Output](sample_cur.png)
 
 ## Features
-
+- ** Relies on https://www.exchangerate-api.com/ Exchange Rate API to retrieve real-time currency rates **
 - **Real-time conversion**: Convert between multiple currencies with up-to-date exchange rates.
 - **Simple UI**: User-friendly interface for easy use.
 - **Multi-currency support**: Supports a wide range of currencies like PHP, USD, EUR, and more.
