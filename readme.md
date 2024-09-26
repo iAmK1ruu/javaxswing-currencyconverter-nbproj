@@ -27,7 +27,6 @@ or download the .zip file and import on Apache NetBeans.
 
 ### Supports 99.9% of countries' exchange rate:
 ```bash
-# Currency Codes
 | Code | Currency Name                       | Country/Region                          |
 |------|-------------------------------------|-----------------------------------------|
 | AED  | UAE Dirham                          | United Arab Emirates                    |
