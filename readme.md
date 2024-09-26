@@ -21,7 +21,7 @@ Before running the project, ensure you have the following installed:
 ### Clone or Download the Repository
 Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/yourusername/simpleCurrencyConverter.git
+git clone https://github.com/iAmK1ruu/javaxswing-currencyconverter-nbproj.git
 ```
 or download the .zip file and import on Apache NetBeans.
 
