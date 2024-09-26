@@ -19,16 +19,14 @@ Before running the project, ensure you have the following installed:
 - **Java Development Kit (JDK)**: Version 8 or higher.
 - **NetBeans IDE**: Or any Java-supported IDE to run the project.
 
-## Getting Started
-
-### 1. Clone or Download the Repository
+### Clone or Download the Repository
 Clone this repository to your local machine using:
 ```bash
 git clone https://github.com/yourusername/simpleCurrencyConverter.git
 ```
 or download the .zip file and import on Apache NetBeans.
 
-### Supported currencies
+### Supports 193 currencies:
 ```bash
 - USD
 - AED
