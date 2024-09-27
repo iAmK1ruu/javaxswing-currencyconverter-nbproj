@@ -1,4 +1,4 @@
-# Real-time Currency Converter (BUGS TO BE FIXED...)
+# Real-time Currency Converter [v1.0.1]
 
 This is a simple real-time currency converter application that allows users to convert between various currencies. The project is built using Java and exported as a NetBeans project.
 
