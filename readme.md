@@ -1,8 +1,8 @@
 # Real-time Currency Converter [v1.0.1]
 
 This is a simple real-time currency converter application that allows users to convert between various currencies. The project is built using Java and exported as a NetBeans project.
-### Bugs Fixed:
-- Where no API key warning prompts close the program unexpectedly.
+### Changes:
+- Fixed a bug where no API key warning prompts close the program unexpectedly.
 - Created a readForNoResponse() method where it checks the latest currency data if the API has responded to the HTTPS request.
 
 ## Sample Output
